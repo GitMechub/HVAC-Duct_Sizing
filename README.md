@@ -3,7 +3,7 @@ This Jupyter Notebook simplifies HVAC duct sizing by using the Scipy optimizatio
 
 Current Version: v1.0.0
 
-Link to Tutorial Video: 
+Tutorial Video: 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FLz8qtGiTjw)
 ___
@@ -12,6 +12,6 @@ Este Jupyter Notebook simplifica o dimensionamento de dutos de HVAC usando a fun
 
 Versão Atual: v1.0.0
 
-Link para o Vídeo de Tutorial: 
+Vídeo de Tutorial: 
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FLz8qtGiTjw)
