@@ -550,7 +550,7 @@ table_results = go.Figure(data=[go.Table(header=dict(values=['Section','Flow rat
 )
                         )
 
-table_results.update_layout(title='DUCT DESIGN', titlefont=dict(color='royalblue', size=28), height=500 )
+table_results.update_layout(title='DUCT SIZING', titlefont=dict(color='royalblue', size=28), height=500 )
 #
 
 
