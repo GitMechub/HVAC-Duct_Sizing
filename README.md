@@ -7,7 +7,7 @@ This Jupyter Notebook simplifies HVAC duct sizing by using the Scipy optimizatio
 
 - How can you help me to improve this code:
 
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FLz8qtGiTjw)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=z66-aUrW6dE&t=58s)
 ___
 
 Este Jupyter Notebook simplifica o dimensionamento de dutos de HVAC usando a função de Scipy optimization. Você só precisa especificar a seção onde os terminais de ar estão localizados, suas vazões, o comprimento de cada seção do sistema inteiro e quaisquer restrições específicas do projeto para um dimensionamento eficaz dos dutos.
@@ -18,4 +18,4 @@ Este Jupyter Notebook simplifica o dimensionamento de dutos de HVAC usando a fun
 
 - Como você pode me ajudar a melhorar este código:
 
-  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FLz8qtGiTjw)
+  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=z66-aUrW6dE&t=58s)
