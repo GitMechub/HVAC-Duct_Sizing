@@ -21,6 +21,7 @@ Link for the video explaining how to use the code:
 
 # PACKS
 """
+#pip install scipy
 
 import numpy as np
 import pandas as pd
