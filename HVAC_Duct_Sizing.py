@@ -3,12 +3,12 @@
 
 **HVAC Duct Sizing - v1.0.0**
 
-Please, subscribe to the channel [Mechub](https://youtube.com/@Mechub?sub_confirmation=1)
-and check my [GitHub](https://github.com/GitMechub)
+Please, subscribe to the channel [MecHub](https://youtube.com/@MecHub?sub_confirmation=1)
+and check my [GitHub](https://github.com/GitMecHub)
 
 ---
 
-*Por favor, inscreva-se no canal: [Mechub](https://youtube.com/@Mechub?sub_confirmation=1) e visite o meu [GitHub](https://github.com/GitMechub)*
+*Por favor, inscreva-se no canal: [MecHub](https://youtube.com/@MecHub?sub_confirmation=1) e visite o meu [GitHub](https://github.com/GitMecHub)*
 
 
 Link for the video explaining how to use the code:
